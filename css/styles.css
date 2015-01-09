@@ -1,5 +1,7 @@
-body {
-	background: pink; 
+div.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 2em;
 }
 
 img {
